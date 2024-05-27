@@ -6,7 +6,7 @@ Firewall, And Checking The Current Firewall Configuration. The Tool
 Aims To Enhance Security Administration By Automating Routine
 Firewall Tasks, Making It More Efficient And Less Error-Prone
 <h1>Usage</h1>
--->> chmod +x RuleMaster.sh
+-->> chmod +x RuleMaster.sh <br>
 -->> ./RuleMaster.sh
 <h1>Follow Me</h1>
 <br>
